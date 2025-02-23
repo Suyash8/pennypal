@@ -1,4 +1,4 @@
-import Logo from "@/components/logo";
+import Logo from "@/components/Logo";
 import React from "react";
 
 function AuthLayout({ children }: { children: React.ReactNode }) {
